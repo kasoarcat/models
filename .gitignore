@@ -96,3 +96,5 @@ ENV/
 
 samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
 research/object_detection/data/
+research/object_detection/multi_object_mask/IG/
+research/object_detection/multi_object_mask/CP/
